@@ -14,12 +14,9 @@ The User is asked multiple questions, once all are answered then a README.md fil
 
 ## Resources
 
-Walkthrough Video
-[Walkthrough Video](https://youtu.be/W8CPssL9gTQ)
+> [Walkthrough Video](https://youtu.be/W8CPssL9gTQ)
 
-Sample Readme
-[Sample readme]([images/raw-readme.png](https://github.com/mckayjalex/readme-generator/blob/main/sampleREADME.md))
-
+> [Sample readme]([images/raw-readme.png](https://github.com/mckayjalex/readme-generator/blob/main/sampleREADME.md))
 ## Screenshots 
 
 Code

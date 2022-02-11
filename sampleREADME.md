@@ -11,8 +11,8 @@ This is where you would add a description about your application
 - [Credits](#credits) 
 - [License](#license)
 - [Features](#features)
-- [How To Contribute](#contribute) 
 - [Tests](#tests)
+- [Contact](#contact)
 
 ## Installation
 
