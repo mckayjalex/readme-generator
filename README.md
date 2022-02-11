@@ -1,50 +1,30 @@
+# Week9-Homework
+
 # Readme Generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Description 
-This is where you would add information about your application
+Description
 
 ## Table of contents 
-- [Installation](#installation) 
-- [Usage](#usage) 
-- [Credits](#credits) 
-- [License](#license)
-- [Features](#features)
-- [How To Contribute](#contribute) 
-- [Tests](#tests)
+- [Resources](#resources) 
+- [Screenshots](#screenshots) 
+- [Contact](#contact)
 
-## Installation
+## Resources
 
-Please install carefully
+Walkthrough Video
+![Walkthrough Video](https://youtu.be/W8CPssL9gTQ)
 
-## Usage 
+Sample Readme
+![Sample readme](images/raw-readme.png)
 
-![Test Image](images/sort-a-meal-webpage.png)
+## Screenshots 
 
-## Credits
+Code
+![Code](images/raw-readme.png)
 
-Me, Myself and I
-
-## Lisense
-
-License Type: [MIT](https://opensource.org/licenses/MIT)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## Features
-
-- feat1
-- feat2
-- feat3
-- feat4
-- feat5
-
-## Tests
-
-- test1
-- test2
-- test3
+Command Line
+![Command Line Input](images/command-line-input.png)
 
 ## Contact
 
