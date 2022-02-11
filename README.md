@@ -8,6 +8,7 @@ Week 9 Homework at Adelaide Uni Coding Bootcamp was to create a readme.md file g
 The User is asked multiple questions, once all are answered then a README.md file is created with the data you have supplied.
 
 ## Table of contents 
+
 - [Resources](#resources) 
 - [Screenshots](#screenshots) 
 - [Contact](#contact)
@@ -16,7 +17,8 @@ The User is asked multiple questions, once all are answered then a README.md fil
 
 > [Walkthrough Video](https://youtu.be/W8CPssL9gTQ)
 
-> [Sample readme]([images/raw-readme.png](https://github.com/mckayjalex/readme-generator/blob/main/sampleREADME.md))
+> [Sample readme](https://github.com/mckayjalex/readme-generator/blob/main/sampleREADME.md)
+
 ## Screenshots 
 
 Code
